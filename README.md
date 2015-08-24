@@ -1,2 +1,2 @@
 # useless_knowledge
-Backup of maybe shareable presonal knowledge
+Backup of maybe shareable personal knowledge
