@@ -45,7 +45,7 @@ Každý s sebou
 * pokud máte dobré dětske vesty, lepší vzít své
 * holínky se světlou podrážkou
 
-* hudební nástroje, zpšvníky
+* hudební nástroje, zpěvníky
 * učebnice a povinná četba :)
 * hudební nosiče
 
