@@ -13,69 +13,64 @@ Každý s sebou
 * spacák nebo peřina+prostěradlo
 * polštářek (hodí se i na cestu)
 * čelovka
-* zavirak
-* slunecni brejle (klapky)
+* zavírák
+* sluneční brejle (klapky)
 * gumu na brejle
 
-* kapesniky
-* papir. kapesniky
-* kartacek, zubni nit
+* kapesníky
+* papír. kapesníky
+* kartáček, zubní nit
 * pasta
-* rucnik
-* mydlo/sprchac
-* opalovaci krem
-* leky
+* ručník
+* mýdlo/sprcháč
+* opalovací krém
+* léky
 
-* ksiltovka/namornicka cepicka
+* kšiltovka/námořnická čepicka
 * zmijovka
-* rukavice pracovni
-* plastenka - vyzkoušená je souprava kalhoty+bunda z pracovních potřeb asi za 250,-
-* vetrovka
-* obleceni do vedra, zimy, vetru, deste...
-* kalhoty dlouhe
-* kratasy
+* rukavice pracovní
+* plástenka - vyzkoušená je souprava kalhoty+bunda z pracovních potřeb asi za 250,-
+* větrovka
+* oblečení do vedra, zimy, větru, deště...
+* kalhoty dlouhé
+* kraťasy
 * fusekle
 * trenky
-* trika s kratkym (pruhovany)
-* trika s dlouhym (pruhovany)
+* trika s kratkým (pruhovaný)
+* trika s dlouhým (pruhovaný)
 * boty na pevninu
-* boty se svetlou podrazkou na palubu (da se i naboso na vlastni nebezpeci)
-* tepla bunda
+* boty se světlou podrážkou na palubu (dá se i naboso na vlastní nebezpečí)
+* teplá bunda
 * mikyna
-* pokud mate dobre detske vesty, lepsi vzit sve
-* holinky se svetlou podrazkou
+* pokud máte dobré dětske vesty, lepší vzít své
+* holínky se světlou podrážkou
 
-* hudebni nastroje, zpevniky
-* ucebnice a povinna cetba :)
-* hudebni nosice
-
+* hudební nástroje, zpšvníky
+* učebnice a povinná četba :)
+* hudební nosiče
 
 1x Na loď
 =========
 
 * karimatky 2
-* spolec. hry
+* společ. hry
   * amos
   * karty
   * Panic Lab
   * bang
-* uterky
-* houbicky
-* jar odbouratelny
-* sirky 3x, zapalovac, svicky, jehla, nit, panapr
+* utěrky
+* houbičky
+* jar odbouratelný
+* sirky 3x, zapalovač, svicky, jehla, nit, panapr
 * kolíčky
-* šňůrky 1m, delsi snura
+* šňůrky 1m, delší šňůra
 * ducktape
-* nepotrebna audiokazeta na spionky
-* moskytiera
-
+* nepotřebná audiokazeta na špiónky
+* moskytiéra
 
 * med
 * cukr
-* sul
-* caje
+* sůl
+* čaje
 * olej
 * energydrinky na cestu
-
-
-
