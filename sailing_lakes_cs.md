@@ -5,6 +5,10 @@ Každý s sebou
 * řidičák
 * skipper průkaz VMP
 * prachy - CZK, PLN, na kauci
+  * zkusenost Mazury 2016 - 1 jidlo (pol.,ryba, pivo) cca 40 PLN vsude
+  * pristavy na noc >50, na den kempy s kadibudkou 30
+  * parking 80 PLN
+  * benzin do lodi cca 50 PLN
 * platební karty
 * mapy
   * automapy
@@ -43,7 +47,7 @@ Každý s sebou
 * teplá bunda
 * mikyna
 * pokud máte dobré dětske vesty, lepší vzít své
-* holínky se světlou podrážkou
+* holínky se světlou podrážkou (!!! opravdu si holínky vemte, zkuste jít do bažiny za neodbytnými účely v něčem jiném ;) )
 
 * hudební nástroje, zpěvníky
 * učebnice a povinná četba :)
@@ -61,6 +65,9 @@ Každý s sebou
 * utěrky
 * houbičky
 * jar odbouratelný
+* vařečka
+* struhadlo
+* větší prkýnko
 * sirky 3x, zapalovač, svicky, jehla, nit, panapr
 * kolíčky
 * šňůrky 1m, delší šňůra
