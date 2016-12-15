@@ -47,7 +47,7 @@ Každý s sebou
 * teplá bunda
 * mikyna
 * pokud máte dobré dětske vesty, lepší vzít své
-* holínky se světlou podrážkou (!!! opravdu si holínky vemte, zkuste jít do bažiny za neodbytnými účely v něčem jiném ;) )
+* holínky se světlou podrážkou (!!! opravdu si holínky vemte, zkuste jít v noci do bažiny za neodbytnými účely v něčem jiném ;) )
 
 * hudební nástroje, zpěvníky
 * učebnice a povinná četba :)
@@ -81,3 +81,61 @@ Každý s sebou
 * čaje
 * olej
 * energydrinky na cestu
+
+Při sestavování posádky
+=======================
+
+* nastavení očekávání
+  * yachting není dovolená :)
+  * jízda a program se přizpůsobuje počasí, větru, nikoli naopak
+  * dobrý vítr je vzácný, tj. koupání je za bezvětří, fouká-li, jede se na plachty
+  * motor se používá v nouzi, přednost mají noční plavby (moře)
+  * bezpečnost má přednost před pohodlím a zábavou
+  * přeplavby mohou být dlouhé, včetně nočních plaveb (moře)
+  * specifika záchodů (na Mazurech na lodi nejsou, na moři ventily)
+
+Před vyplutím
+=============
+
+* zjistit, kdo ma zájem být kompetentní posádkou
+* uzly - loďák, fendry, roháček, držení, dotahování přes roháček, vázání ke sloupu, liščák, osma s okem, smotání lana
+* kde co je
+  * lana v zásecích - které co
+  * výtah hlavní plachty
+  * rolfok
+  * otěže hlavatky
+  * otěže kosatky
+  * kicking
+  * vinčny
+  * kotva, ovladač
+* naplánovat podle mapy a průvodce trasu, nespěchat při vyplutí
+
+Pravidla
+========
+
+* pravidlo č. 1: kapitán má vždycky pravdu :)
+* kapitán zodpovídá za bezpečnost a pokyny kapitána se plní okamžitě, bez diskusí
+* na kapitánský můstek nikdo krom kapitána nic neodkládá
+* nestojí se na schůdcích do kajuty
+* na moři:
+  * na záchodech se papír nehází do mísy, ale do koše
+  * do záchodů se nečůrá ve stoje
+  * před použitím WC v marině či na kotvišti se přesvědči, zda je opravdu odpad z rezervoáru uzavřen
+  * pokud možno se v marině používají WC na břehu
+
+Zkušenosti z moře
+=================
+* při intenzivním používání motoru spotřeba 70l nafty za týden
+* při plýtvání spotřeba 500l vody na týden a 8 lidí
+* největší spotřebu el. má autopilot na plachty, pak lednice
+* při hospodaření s el. a občasné jízdě na motor vydrží i bez dobíjení v marině
+* autopilota nepřepereš, může být příčinou "zaseklého kormidla"
+* při couvání nejprve nabrat rychlost s kormidlem rovně
+* mezi dopředným chodem, neutrálem, zpátečkou dělat pauzy
+* nepoužívat motor při náklonu
+* při velkých vlnách je příjemnější jízda po vlnách než proti nim
+* sledovat předpověď včetně vln (poseidon.hcmr.gr)
+* 5-6 BF v předpovědi může dělat na volném moři vlny 5
+* 2 sračkotanky při 7 lidech vydrží 2 noci a den
+* očekává-li se drsnější počasí, je třeba předem připravit jistící lana na harnessy
+* naučit se s vysílačkou, být pořád na příjmu
