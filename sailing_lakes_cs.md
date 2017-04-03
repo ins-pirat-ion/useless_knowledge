@@ -74,11 +74,14 @@ Každý s sebou
 * ducktape
 * nepotřebná audiokazeta na špiónky
 * moskytiéra
+* lopatka na le kaků
 
 * med
 * cukr
 * sůl
 * čaje
+* kafe
+* airpress/mokkátor
 * olej
 * energydrinky na cestu
 
