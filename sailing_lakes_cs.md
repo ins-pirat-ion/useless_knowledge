@@ -90,6 +90,8 @@ Každý s sebou
 * olej
 * energydrinky na cestu
 
+* tento seznam a pravidla ;)
+
 Při sestavování posádky
 =======================
 
